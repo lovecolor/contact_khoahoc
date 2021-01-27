@@ -168,7 +168,7 @@
   width: 85%;
   z-index: 0;
   position: absolute;
-  left: 5%;
+  left: 7.5%;
   top: -1%;
   
 }
@@ -211,7 +211,7 @@
   width: 95%;
   border: 1px solid #F15841;
   border-radius: 30px;
-  
+  margin: auto;
 }
 
 .layout .chuongtrinhdaotao .content .container .container_item{
