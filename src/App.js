@@ -50,7 +50,7 @@ function App() {
         <div className='title'>
           <div className='line_start'></div>
           <div className='line_end'></div>
-          <h1>THAM GIA ĐÀO TẠO</h1>
+          <h1>CHƯƠNG TRÌNH ĐÀO TẠO</h1>
         </div>
         <div className='content'>
           <div className='header'>
